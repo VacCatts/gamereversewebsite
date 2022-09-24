@@ -1,5 +1,6 @@
 .main {
-    font-family: Comfortaa;
+    font-family: Roboto;
+    src: url("../../gamereversewebsite/Roboto.ttf") format('truetype');
     color: white;
     margin: 0 auto;
     text-align: center;
